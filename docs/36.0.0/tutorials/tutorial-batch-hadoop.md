@@ -48,7 +48,7 @@ For this tutorial, we've provided a Dockerfile for a Hadoop 3.3.6 cluster, which
 
 This Dockerfile and related files are located at `quickstart/tutorial/hadoop/docker`.
 
-From the `apache-druid-35.0.1` package root, run the following commands to build a Docker image named "druid-hadoop-demo" with version tag "3.3.6":
+From the `apache-druid-36.0.0` package root, run the following commands to build a Docker image named "druid-hadoop-demo" with version tag "3.3.6":
 
 ```bash
 cd quickstart/tutorial/hadoop/docker
